@@ -1,0 +1,23 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "as the name says",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keedeeBear/Request-Header-Parser.git"
+  },
+  "author": "Antonia Gherghel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keedeeBear/Request-Header-Parser/issues"
+  },
+  "homepage": "https://github.com/keedeeBear/Request-Header-Parser#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
